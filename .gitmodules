@@ -1,0 +1,3 @@
+[submodule "nine-nacos-discovery-server"]
+	path = nine-nacos-discovery-server
+	url = git@github.com:nine-cloud/nine-nacos-discovery-server.git
